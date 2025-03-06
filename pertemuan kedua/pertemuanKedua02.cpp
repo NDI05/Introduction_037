@@ -21,4 +21,5 @@ void outputData(){
 int main(){
     inputData();
     outputData();
+    
 }

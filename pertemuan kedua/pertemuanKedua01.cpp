@@ -6,6 +6,7 @@ int main() {
     double lebar;
     double luas;
     
+    
     cout << "masukkan panjangnya: ";
     cin >> panjang;
     cout << "masukkan lebarnya: ";
